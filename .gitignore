@@ -1,0 +1,11 @@
+api-common-protos
+go
+
+netbee-genproto-go/
+netbee-gapic-go/
+netbee-ms-gateway/
+netbee-ms-users/
+netbee-ms-auth/
+netbeeapis/
+tools
+.idea
